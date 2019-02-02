@@ -1,0 +1,159 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /Users/sergioyanez/Documents/reposviewer/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/845c70860d56ca4ff98da088a90a4379/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/daee02f873a34871ebec398c36da1975/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5d3d4f76bb7f9a62ac31be006a8e407/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f748531dbd69876c2b2a4a3b1e4f4ce5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/71f0c89f92d2c92dbbeb932487708ee7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01fd78378358707cb1dd8fddf7d7cd9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8adc7347c7eb26429c2434d9b1c1f595/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e4e60bfc1668a9010a6dfef1f7027359/AndroidManifest.xml:10:1-18:12
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b616914bd18db1cc23f4d485aa0a1389/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/c0f4490bd031f6fe3b644addc72b1be0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9ac62910bdfe849a6695a47025ad177a/AndroidManifest.xml:1:1-4:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5d5ef74daca9f5aae39e26e160c2097/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/355c80a4ceaf83865d8b8bf15f3732f7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/263134d8b20239ea85992a27236b5adf/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/93626c0cf77d9b8d64b57f7ae8565eef/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a2b014dcc01e20a3b3f8e8c2343780b8/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f16cbb270445477f525b9742097b504d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0e74d070871bbb9cd4d9f5abee8abc3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3f900518dd5179e0d07afc7a325ae8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b0e798bc5730b76c94a3c55dc87581a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9ac62910bdfe849a6695a47025ad177a/AndroidManifest.xml:3:3-17
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9ac62910bdfe849a6695a47025ad177a/AndroidManifest.xml:3:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5d5ef74daca9f5aae39e26e160c2097/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/a5d5ef74daca9f5aae39e26e160c2097/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.reposviewer.MainActivity
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /Users/sergioyanez/Documents/reposviewer/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/sergioyanez/Documents/reposviewer/node_modules/react-native-gesture-handler/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.55.4] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/react-native-0.55.4.aar/1fc0c51e92e5462e932b23e79b6ea6c6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/845c70860d56ca4ff98da088a90a4379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/845c70860d56ca4ff98da088a90a4379/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/daee02f873a34871ebec398c36da1975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/daee02f873a34871ebec398c36da1975/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5d3d4f76bb7f9a62ac31be006a8e407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e5d3d4f76bb7f9a62ac31be006a8e407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f748531dbd69876c2b2a4a3b1e4f4ce5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/f748531dbd69876c2b2a4a3b1e4f4ce5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/71f0c89f92d2c92dbbeb932487708ee7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/71f0c89f92d2c92dbbeb932487708ee7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01fd78378358707cb1dd8fddf7d7cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/a01fd78378358707cb1dd8fddf7d7cd9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8adc7347c7eb26429c2434d9b1c1f595/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8adc7347c7eb26429c2434d9b1c1f595/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e4e60bfc1668a9010a6dfef1f7027359/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/e4e60bfc1668a9010a6dfef1f7027359/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b616914bd18db1cc23f4d485aa0a1389/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fresco-1.3.0.aar/b616914bd18db1cc23f4d485aa0a1389/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/c0f4490bd031f6fe3b644addc72b1be0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.3.0.aar/c0f4490bd031f6fe3b644addc72b1be0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9ac62910bdfe849a6695a47025ad177a/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.soloader:soloader:0.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/soloader-0.1.0.aar/9ac62910bdfe849a6695a47025ad177a/AndroidManifest.xml:2:3-70
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/355c80a4ceaf83865d8b8bf15f3732f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/drawee-1.3.0.aar/355c80a4ceaf83865d8b8bf15f3732f7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/263134d8b20239ea85992a27236b5adf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.3.0.aar/263134d8b20239ea85992a27236b5adf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/93626c0cf77d9b8d64b57f7ae8565eef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.3.0.aar/93626c0cf77d9b8d64b57f7ae8565eef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a2b014dcc01e20a3b3f8e8c2343780b8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.3.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/fbcore-1.3.0.aar/a2b014dcc01e20a3b3f8e8c2343780b8/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f16cbb270445477f525b9742097b504d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/f16cbb270445477f525b9742097b504d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0e74d070871bbb9cd4d9f5abee8abc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0e74d070871bbb9cd4d9f5abee8abc3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3f900518dd5179e0d07afc7a325ae8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a3f900518dd5179e0d07afc7a325ae8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b0e798bc5730b76c94a3c55dc87581a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sergioyanez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/1b0e798bc5730b76c94a3c55dc87581a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/sergioyanez/Documents/reposviewer/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
